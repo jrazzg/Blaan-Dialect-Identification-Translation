@@ -1,0 +1,2 @@
+# Blaan-Dialect-Identification-Translation
+A web-based implementation of our thesis project: an NLP system capable of identifying dialects (including Blaan) from user-input text and providing basic translation features. This project focuses on learning how to integrate a machine learning model into a web environment, converting the original mobile-based prototype into a browser-accessible application.
